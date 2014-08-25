@@ -35,17 +35,9 @@ Icon
 # Files that might appear on external disk
 .Spotlight-V100
 .Trashes
-/Project-SEM4/nbproject/private/*.*
-/Project-SEM4/build/
-/Project-sem4/nbproject/private/
-/Project-sem4/build/
-/Project-sem4/nbproject/*.properties
 /Sem4-WCPS/nbproject/private/
 /Sem4-WCPS/Sem4-WCPS-war/nbproject/private/
 /Sem4-WCPS/Sem4-WCPS-ejb/nbproject/private/
-/Sem4-WCPS/nbproject/*.properties
-/Sem4-WCPS/Sem4-WCPS-ejb/nbproject/*.properties
-/Sem4-WCPS/Sem4-WCPS-war/nbproject/*.properties
 /Sem4-WCPS/Sem4-WCPS-ejb/build/
 /Sem4-WCPS/Sem4-WCPS-ejb/dist/
 /Sem4-WCPS/Sem4-WCPS-war/build/

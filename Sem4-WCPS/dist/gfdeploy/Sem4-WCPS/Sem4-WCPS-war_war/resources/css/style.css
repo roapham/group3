@@ -1,0 +1,71 @@
+/* Effective stylesheet produced by snapshot save */
+* { margin: 0px; padding: 0px; }
+html, body { height: 100%; min-width: 935px; }
+body { font-size: 100%; line-height: 1.125em; background-repeat: repeat-x; background-position: center top; background-color: rgb(255, 255, 255); text-align: center; }
+html, input, textarea { font-family: Arial,Helvetica,sans-serif; color: rgb(97, 100, 105); }
+.clear { clear: both; }
+div.container { overflow: hidden; width: 100%; }
+a img { border: 0px none; }
+img { vertical-align: top; }
+a { color: rgb(93, 144, 222); text-decoration: underline; outline: medium none; }
+a:hover { text-decoration: none; }
+.adxSectionCopy ul li, .adxCopy td ul li { background: url("bullet.gif") no-repeat scroll 0px 4px transparent; list-style-type: none; padding-left: 25px; }
+#content .adxSectionCopy, #content .adxCopy td ul li, #content .adxLinkSummary { color: rgb(97, 100, 105); font-size: 0.866em; }
+#content ul { margin: 0px; padding: 0px; list-style: none outside none; }
+#content .ul1 li { background: url("tail.gif") repeat-x scroll center bottom transparent; }
+#content .ul1 li div { background: url("urn:download-error:http://www.virtualclaimsadjuster.com/App_Themes/Default/ximages/icon1.gif") no-repeat scroll left top transparent; padding-left: 90px; padding-bottom: 15px; margin-bottom: 19px; }
+#content .ul1 li a { color: rgb(92, 144, 222); text-decoration: underline; line-height: 1.84em; font-size: 0.866em; }
+#content .ul1 li a:hover { text-decoration: none; }
+.link-1 { display: block; float: right; background: url("link_bg.gif") repeat-x scroll left top transparent; color: rgb(92, 144, 222); text-decoration: none; font-size: 0.92em; }
+.link-1 em { display: block; background: url("link_left.gif") no-repeat scroll left top transparent; }
+.link-1 b { display: block; background: url("link_right.gif") no-repeat scroll right top transparent; padding: 4px 14px 5px; font-weight: normal; font-style: normal; }
+.link-1:hover { text-decoration: none; color: rgb(0, 0, 0); }
+#header { font-size: 0.75em; color: rgb(255, 255, 255); }
+#header .logo { margin: 47px 0px 116px 14px; }
+#header .img { margin: 0px 0px 0px 28px; }
+#header .indent { margin: -18px 0px 0px 605px; position: absolute; color: rgb(33, 38, 50); font-weight: bold; text-align: right; }
+#header ul { margin: 142px 0px 0px 9px; padding: 0px; list-style: none outside none; position: absolute; width: 935px; }
+#header ul li { margin: 0px; display: inline; font-size: 1.08em; font-weight: bold; background: url("bg_menu.png") no-repeat scroll right top transparent; float: left; }
+#header ul .last { background: none repeat scroll 0% 0% transparent; }
+#header ul li a { color: rgb(255, 255, 255); text-decoration: none; margin: 0px; width: 131px; text-align: center; display: block; float: left; padding: 21px 0px 25px; }
+#header ul li a:hover { color: rgb(16, 31, 55); text-decoration: none; background: url("bg_menu-act.gif") repeat-x scroll left top transparent; }
+#header ul li .current { color: rgb(16, 31, 55); text-decoration: none; background: url("bg_menu-act.gif") repeat-x scroll left top transparent; }
+#header ul .first a:hover { text-decoration: none; background: url("bg_menu-act-first.gif") repeat-x scroll left top transparent; }
+#header ul .first .current { text-decoration: none; background: url("bg_menu-act-first.gif") repeat-x scroll left top transparent; }
+#header ul .last a:hover { text-decoration: none; background: url("bg_menu-act-last.gif") repeat-x scroll left top transparent; width: 130px; }
+#content { font-size: 0.9375em; width: 100%; text-align: left; background: url("bg_cont.png") repeat scroll 0% 0% transparent; }
+#content .indent-main { padding: 40px 47px 0px 46px; }
+#content .title1 { margin-bottom: 11px; }
+#content span.img-left1 img { float: left; margin: 0px 29px 0px 0px; }
+#content p { margin: 0px 0px 31px; }
+#content .indent { padding: 0px 0px 0px 10px; }
+#content .indent2 { padding: 33px 0px 0px; }
+.box { background: none repeat scroll 0% 0% rgb(233, 235, 235); width: 100%; font-size: 0.866em; }
+.box .border-top { background: url("border_top.gif") repeat-x scroll center top transparent; }
+.box .border-bottom { background: url("border_bottom.gif") repeat-x scroll center bottom transparent; }
+.box .border-left { background: url("border_left.gif") repeat-y scroll left center transparent; }
+.box .border-right { background: url("border_right.gif") repeat-y scroll right center transparent; }
+.box .corner-top-left { background: url("corner_top_left.gif") no-repeat scroll left top transparent; }
+.box .corner-top-right { background: url("corner_top_right.gif") no-repeat scroll right top transparent; }
+.box .corner-bottom-left { background: url("corner_bottom_left.gif") no-repeat scroll left bottom transparent; }
+.box .corner-bottom-right { background: url("corner_bottom_right.gif") no-repeat scroll right bottom transparent; width: 100%; }
+.box .indent-box { padding: 29px 20px 15px 29px; }
+.box1 { background: none repeat scroll 0% 0% rgb(85, 112, 152); width: 100%; font-size: 0.866em; color: rgb(233, 235, 227); }
+.box1 .border-top { background: url("border_top1.gif") repeat-x scroll center top transparent; }
+.box1 .border-bottom { background: url("border_bottom1.gif") repeat-x scroll center bottom transparent; }
+.box1 .border-left { background: url("border_left1.gif") repeat-y scroll left center transparent; }
+.box1 .border-right { background: url("border_right1.gif") repeat-y scroll right center transparent; }
+.box1 .corner-top-left { background: url("corner_top_left1.gif") no-repeat scroll left top transparent; }
+.box1 .corner-top-right { background: url("corner_top_right1.gif") no-repeat scroll right top transparent; }
+.box1 .corner-bottom-left { background: url("corner_bottom_left1.gif") no-repeat scroll left bottom transparent; }
+.box1 .corner-bottom-right { background: url("corner_bottom_right1.gif") no-repeat scroll right bottom transparent; width: 100%; }
+.box1 .indent-box { padding: 15px 23px 26px 18px; }
+#footer { color: rgb(16, 31, 55); font-size: 0.75em; background: url("bot1.gif") repeat-x scroll center top transparent; text-align: center; line-height: 22px; }
+#footer .indent-footer { padding: 60px 50px 0px; }
+#footer a { color: rgb(16, 31, 55); text-decoration: underline; }
+#footer a:hover { text-decoration: none; }
+#footer ul { margin: 0px; padding: 0px 0px 0px 54px; list-style: none outside none; }
+#footer ul li { margin: 0px; display: inline; float: left; background: url("bg_menu1.gif") no-repeat scroll right center transparent; }
+#footer ul .last { background: none repeat scroll 0% 0% transparent; }
+#footer ul li a { color: rgb(16, 31, 55); text-decoration: none; display: block; float: left; padding: 0px 27px; }
+#footer ul li a:hover { text-decoration: underline; }
